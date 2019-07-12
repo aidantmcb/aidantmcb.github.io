@@ -1,8 +1,6 @@
----
-layout: page
-
----
-
 # Aidan McBride
+## [aidantmcb.github.io](https://aidantmcb.github.io)
 
-Just my first attempts at making a page for myself!
+Hello! I'm Aidan McBride, an undergraduate astronomy student at Western Washington University.
+
+Some of my research is pinned at [my github page](https://github.com/aidantmcb)
